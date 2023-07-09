@@ -1,5 +1,6 @@
-# Bypass Extension
-[![Bypass Extension Demo](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your_video_id)
+# Bypass - A Chromium Extension
+
+https://github.com/rumankhan1/bypass-chrome-extension/assets/42446783/43b97e47-a7d2-465a-bf3f-fbad170f4cfb
 
 The Bypass extension is a powerful tool that allows you to remove paywalls from premium content on the internet. Say goodbye to those frustrating limitations and enjoy seamless access to the information you need.
 
