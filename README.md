@@ -26,6 +26,6 @@ Please note that installing the Bypass extension in developer mode does not impa
 
 If you find the Bypass extension useful, please show your support by giving it a star on GitHub. Your feedback and contributions are highly appreciated.
 
-[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository.svg?style=social)](https://github.com/rumankhan1/bypass-chrome-extension)
+[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository.svg?style=social)](https://github.com/rumankhan1/bypass)
 
 Thank you for using the Bypass extension!
