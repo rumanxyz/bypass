@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Set background color for the entire body */
+#body {
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  margin: 0;
+}
+
+/* Set different background color for the main wrapper */
+#mainWrapper {
+  background-color: #ffffff;
+  padding: 10px;
+  /* border-radius: 5px; */
+}
+
+/* Move all the elements to the center */
+#mainMessagePara {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+}
+
+/* Resize the GIF */
+#mainGif {
+  width: 150px;
+  height: auto;
+}

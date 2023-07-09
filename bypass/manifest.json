@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Bypass",
+    "version": "0.1",
+    "author": "Ruman Khan",
+    "description": "Unlock premium articles behind paywalls with ease powered by 12ft.io",
+    "icons": {
+      "16": "assets/icon.png",
+      "48": "assets/icon.png",
+      "128": "assets/icon.png"
+    },
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
+  
